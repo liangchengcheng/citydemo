@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lcc/AndroidStudioProjects/city1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lcc/AndroidStudioProjects/city1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lcc/AndroidStudioProjects/city1/app/build/intermediates/res/merged/debug/layout/fragment_login_dialog.xml",
+        "source": "/Users/lcc/AndroidStudioProjects/city1/app/src/main/res/layout/fragment_login_dialog.xml"
+    },
+    {
+        "merged": "/Users/lcc/AndroidStudioProjects/city1/app/build/intermediates/res/merged/debug/layout/city_picker.xml",
+        "source": "/Users/lcc/AndroidStudioProjects/city1/app/src/main/res/layout/city_picker.xml"
+    }
+]
