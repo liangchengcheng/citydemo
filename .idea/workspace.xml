@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b887bd-6e8b-4825-90ee-1604f9f99fc2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/js.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="city.iws" />
@@ -116,11 +115,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.6470587">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.07964602">
+              <caret line="3" column="112" selection-start-line="3" selection-start-column="112" selection-end-line="3" selection-end-column="112" />
               <folding />
             </state>
           </provider>
@@ -131,16 +140,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="95" column="37" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScrollerNumberPicker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/city/ScrollerNumberPicker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="489" column="12" selection-start-line="489" selection-start-column="12" selection-end-line="489" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -1683,12 +1682,13 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/city/ScrollerNumberPicker.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/city/LoginDialogFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/city/CityPicker.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="23" />
+    <option name="x" value="3" />
+    <option name="y" value="64" />
     <option name="width" value="1273" />
     <option name="height" value="736" />
   </component>
@@ -1975,6 +1975,7 @@
       <recent name="com.example.city" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
     </key>
   </component>
@@ -2240,10 +2241,17 @@
       <option name="number" value="Default" />
       <updated>1471303539343</updated>
     </task>
+    <task id="LOCAL-00001" summary="s">
+      <created>1472289669999</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1472289669999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1273" height="736" extended-state="0" />
+    <frame x="3" y="64" width="1273" height="736" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -2311,6 +2319,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="s" />
+    <option name="LAST_COMMIT_MESSAGE" value="s" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -2331,14 +2343,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2738,8 +2742,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.6470587">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07964602">
+          <caret line="3" column="112" selection-start-line="3" selection-start-column="112" selection-end-line="3" selection-end-column="112" />
           <folding />
         </state>
       </provider>
